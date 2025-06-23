@@ -67,7 +67,33 @@ L7805-Thermal-PCB
 - **+12V rail** → R1 (1kΩ) → LED1 (anode) → LED1 cathode → GND
 
 ---
+## 📸 Screenshots
 
+### 🧭 Schematic
+![Schematic](SCHEMATIC.png)
+
+### 🧱 PCB Layout Editor
+![PCB Layout](PCB%20EDITOR.png)
+
+### 🧊 3D Front View
+![3D Front](3D_F.png)
+
+### 🧊 3D Back View
+![3D Back](3D_B.png)
+
+---
+
+## 📁 Folder Contents
+
+| File / Folder           | Purpose                          |
+|------------------------|----------------------------------|
+| `*.gbr`                | Gerber files for fabrication     |
+| `*.drl`                | Drill files                      |
+| `*.png`                | Project visuals                  |
+| `README.md`            | Project description              |
+| `L7805-job.gbrjob`     | Combined job file                |
+
+---
 ## 🧪 Testing Instructions
 
 1. Power using either:
